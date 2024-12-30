@@ -1,0 +1,12 @@
+name: environmental_monitoring_dashboard
+title: environmental_monitoring_dashboard
+username: pushyami
+account: pushyami
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13649386
+bundleId: 9584424
+url: https://pushyami.shinyapps.io/environmental_monitoring_dashboard/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

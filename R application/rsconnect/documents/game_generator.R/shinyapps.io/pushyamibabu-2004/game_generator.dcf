@@ -1,0 +1,12 @@
+name: game_generator
+title: game_generator
+username: pushyamibabu-2004
+account: pushyamibabu-2004
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13650330
+bundleId: 9585570
+url: https://pushyamibabu-2004.shinyapps.io/game_generator/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

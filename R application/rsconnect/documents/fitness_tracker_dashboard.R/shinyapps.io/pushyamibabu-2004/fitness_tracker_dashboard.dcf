@@ -1,0 +1,12 @@
+name: fitness_tracker_dashboard
+title: fitness_tracker_dashboard
+username: pushyamibabu-2004
+account: pushyamibabu-2004
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13650250
+bundleId: 9585487
+url: https://pushyamibabu-2004.shinyapps.io/fitness_tracker_dashboard/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
